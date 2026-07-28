@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm M Irfan Arisaldy, S.Kom.</h1>
-<h3 align="center">Senior Software Quality Assurance Engineer & Fullstack Developer</h3>
+# 👋 Hi, I'm M Irfan Arisaldy, S.Kom.
+### Senior Software Quality Assurance Engineer & Fullstack Developer
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
