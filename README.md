@@ -1,22 +1,18 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm M Irfan Arisaldy, S.Kom.</h1>
+<h3 align="center">Senior Software Quality Assurance Engineer & Fullstack Developer</h3>
 
-  # 👋 Hi, I'm M Irfan Arisaldy, S.Kom.
-  ### **Senior Software Quality Assurance Engineer & Fullstack Developer**
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0D9488&center=true&vCenter=true&width=650&lines=Senior+SQA+Engineer+%26+Fullstack+Developer;AI-Assisted+Software+Testing+%26+Automation+Expert;Robot+Framework%2C+Katalon+%26+Postman+API+Testing;Next.js%2C+Node.js%2C+React+%26+TypeScript+Specialist" alt="Typing SVG" />
+  </a>
+</p>
 
-  <p align="center">
-    <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0D9488&center=true&vCenter=true&width=650&lines=Senior+SQA+Engineer+%26+Fullstack+Developer;AI-Assisted+Software+Testing+%26+Automation+Expert;Robot+Framework%2C+Katalon+%26+Postman+API+Testing;Next.js%2C+Node.js%2C+React+%26+TypeScript+Specialist" alt="Typing SVG" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://iarisaldy.github.io"><img src="https://img.shields.io/badge/Portfolio-iarisaldy.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-    <a href="https://linkedin.com/in/irfan-arisaldy"><img src="https://img.shields.io/badge/LinkedIn-irfan--arisaldy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:iarisaldy@gmail.com"><img src="https://img.shields.io/badge/Email-iarisaldy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://wa.me/6282264117557"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  </p>
-
-</div>
+<p align="center">
+  <a href="https://iarisaldy.github.io"><img src="https://img.shields.io/badge/Portfolio-iarisaldy.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/irfan-arisaldy"><img src="https://img.shields.io/badge/LinkedIn-irfan--arisaldy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:iarisaldy@gmail.com"><img src="https://img.shields.io/badge/Email-iarisaldy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/6282264117557"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
 
 ---
 
