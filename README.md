@@ -113,16 +113,17 @@ Experienced **Full Stack Web Developer** with a strong focus on building high-pe
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iarisaldy&show_icons=true&theme=teal&hide_border=true&count_private=true" alt="Muhamad Irfan's GitHub Stats" height="175 font-sans"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iarisaldy&layout=compact&theme=teal&hide_border=true" alt="Top Languages" height="175" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iarisaldy&show_icons=true&theme=teal&hide_border=true&count_private=true" alt="Muhamad Irfan's GitHub Stats" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iarisaldy&layout=compact&theme=teal&hide_border=true" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iarisaldy&theme=teal&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iarisaldy&theme=teal&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
