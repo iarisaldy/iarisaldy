@@ -134,8 +134,8 @@ Experienced **Senior Software Quality Assurance Engineer & Fullstack Developer**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iarisaldy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Irfan's GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iarisaldy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iarisaldy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Irfan's GitHub Stats" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iarisaldy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=iarisaldy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
