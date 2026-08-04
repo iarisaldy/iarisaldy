@@ -134,7 +134,7 @@ Experienced **Senior Software Quality Assurance Engineer & Fullstack Developer**
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iarisaldy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 
 <br/><br/>
-<img src="https://streak-stats.demolab.com/?user=iarisaldy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img src="./streak.svg" alt="GitHub Streak Stats" />
 
 </div>
 
